@@ -1,0 +1,24 @@
+
+
+.tarefa{
+    background-color: #845afc;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-checkbox{
+    margin: 5px;
+}
+
+.tarefa-acoes{
+    display: flex;
+    align-items: center;
+}
+
+.tarefa-done{
+    text-decoration: line-through;
+}

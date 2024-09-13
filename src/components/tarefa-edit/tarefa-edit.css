@@ -1,0 +1,17 @@
+
+
+.tarefa-edit{
+    background: none;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.tarefa-edit-acoes{
+    display: flex;
+    align-items: center;
+}
